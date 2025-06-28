@@ -8,7 +8,7 @@
 Vimeo is a demo website for webinuxs theme.
 
 ## Live demo
-https://demo3.webinuxs.com/
+https://demo32.webinuxs.com/
 
 ## Run Locally
 To unlock the wonders of this project, simply follow these steps:
